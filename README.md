@@ -1,4 +1,4 @@
-# Gihub example
+# Github example
 
 ## creating new repository
 
