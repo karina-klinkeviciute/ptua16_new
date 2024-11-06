@@ -2,8 +2,8 @@
 
 ## creating new repository
 
-- using git clone
-- using git init
+- using `git clone`
+- using `git init`
 
 
 ## git add
